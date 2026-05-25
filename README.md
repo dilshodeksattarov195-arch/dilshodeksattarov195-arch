@@ -12,7 +12,7 @@
 ### 🟢 Men haqimda
 - 🔭 Hozir **Web Development, API & Automation** yo'nalishida ishlayapman
 - 💡 Maqsadim: Tez, xavfsiz va foydalanuvchiga qulay ilovalar yaratish
-- 📫 Bog'lanish: `<sizning@email.com>` | [Telegram](https://t.me/sizning_telegram_ishingiz)
+- 📫 Bog'lanish: `<dilshodbeksattarov195@gmail.com>` | [Telegram](https://t.me/unknownchat3)
 
 ---
 
@@ -31,8 +31,8 @@
 
 ### 📊 GitHub Statistika
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=green&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&icon_color=32CD32&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=green&background=0D1117&stroke=32CD32&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dilshodeksattarov195-arch&show_icons=true&theme=green&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&icon_color=32CD32&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilshodeksattarov195-arch&theme=green&background=0D1117&stroke=32CD32&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&hide_border=true" />
 </p>
 
 ---
@@ -40,9 +40,9 @@
 ### 🌟 Tanlangan loyihalar
 | Loyiha | Tavsif | Stack |
 |--------|--------|-------|
-| 🟢 [Loyiha Nomi](#) | Qisqa tavsif yozing... | Python, FastAPI |
-| 🟢 [Loyiha Nomi](#) | Qisqa tavsif yozing... | JS, React, Node |
-| 🟢 [Loyiha Nomi](#) | Qisqa tavsif yozing... | Docker, PostgreSQL |
+| 🟢 [CreateWeb](#) | Web saytlar yaratish boyicha | Python, FastAPI |
+| 🟢 [CreateTelegramBot](#) | telegram botlar yaratish boyicha | JS, React, Node |
+| 🟢 [CreateAi](#) | ai yaratish boyicha| Docker, PostgreSQL |
 
 ---
 
